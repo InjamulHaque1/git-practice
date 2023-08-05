@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Salam");
+    printf("Salam 3-1");
     printf("Hello 3-1 semester!");
     printf("Python Course");
 }
