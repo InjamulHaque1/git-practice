@@ -5,4 +5,5 @@ int main() {
     printf("Hello 3-1 semester!");
     printf("Python Course");
     printf("New lab branch created");
+    printf("Hello Injamul!");
 }
